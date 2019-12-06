@@ -1,0 +1,27 @@
+body{background-color: red}
+
+p{
+  font-family: monospace;
+  font-size: 80px;
+  color:blue;
+  text-align: center;
+}
+a:link {
+  color: blue;
+  text-decoration: none;
+}
+
+a:visited {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  color: yellow;
+  text-decoration: none;
+}
+
+a:active {
+  color: blue;
+  text-decoration: none;
+}

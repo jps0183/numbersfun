@@ -1,7 +1,27 @@
+body {background-color: white}
+
 p{
-  background-color: white;
   font-family: monospace;
-  font-size: 100px;
+  font-size: 80px;
   color:red;
   text-align: center;
+}
+a:link {
+  color: red;
+  text-decoration: none;
+}
+
+a:visited {
+  color: red;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
+  text-decoration: none;
+}
+
+a:active {
+  color: red;
+  text-decoration: none;
 }
